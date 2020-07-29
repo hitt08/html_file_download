@@ -1,3 +1,5 @@
+Download media content from within the web pages.
+
 ## Quick Start
 ```
 download_file.sh -u URL [-o OUTPUT_FILE_NAME]
